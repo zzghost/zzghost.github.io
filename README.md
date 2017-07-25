@@ -1,8 +1,4 @@
-#一点点说明
+#刘洲的博客
 
-这是[mukosame.github.io](http://mukosame.github.io)的示例代码，第一个能用的，干净的，完全可以作为模板和基础的版本
-* 感谢来自于beiyuu的设计(http://beiyuu.com/)
-* 希望你喜欢
-* 欢迎star
-* 欢迎fork
-* Happy hacking ^_^
+* 感谢来自于[beiyuu](http://beiyuu.com/)的设计
+* 博客包含平时的读书笔记、杂事记录、个人随笔等。
